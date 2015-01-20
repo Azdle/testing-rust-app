@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/Azdle/testing-rust-app.svg)](https://travis-ci.org/Azdle/testing-rust-app)
