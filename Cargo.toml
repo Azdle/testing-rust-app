@@ -1,0 +1,8 @@
+[package]
+
+name = "hello_http"
+version = "0.0.1"
+authors = ["Patrick Barrett <pat@theunlink.com>"]
+
+[dependencies]
+hyper = "0.1"
